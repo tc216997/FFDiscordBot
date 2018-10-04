@@ -1,0 +1,258 @@
+[
+  {
+    "team": "CHI",
+    "rank": 1,
+    "passRank": 1,
+    "passDvoa": -31.6,
+    "runRank": 5,
+    "runDvoa": -27.3
+  },
+  {
+    "team": "JAX",
+    "rank": 3,
+    "passRank": 6,
+    "passDvoa": -12.3,
+    "runRank": 6,
+    "runDvoa": -26.5
+  },
+  {
+    "team": "BAL",
+    "rank": 2,
+    "passRank": 5,
+    "passDvoa": -12.4,
+    "runRank": 4,
+    "runDvoa": -28.3
+  },
+  {
+    "team": "CLE",
+    "rank": 4,
+    "passRank": 4,
+    "passDvoa": -12.6,
+    "runRank": 7,
+    "runDvoa": -22.4
+  },
+  {
+    "team": "NYJ",
+    "rank": 5,
+    "passRank": 2,
+    "passDvoa": -18.4,
+    "runRank": 16,
+    "runDvoa": -10.8
+  },
+  {
+    "team": "SEA",
+    "rank": 8,
+    "passRank": 9,
+    "passDvoa": -9,
+    "runRank": 10,
+    "runDvoa": -15
+  },
+  {
+    "team": "MIA",
+    "rank": 9,
+    "passRank": 8,
+    "passDvoa": -9,
+    "runRank": 12,
+    "runDvoa": -14.8
+  },
+  {
+    "team": "PHI",
+    "rank": 7,
+    "passRank": 12,
+    "passDvoa": -1.3,
+    "runRank": 3,
+    "runDvoa": -28.4
+  },
+  {
+    "team": "LAR",
+    "rank": 6,
+    "passRank": 7,
+    "passDvoa": -10,
+    "runRank": 23,
+    "runDvoa": -4.9
+  },
+  {
+    "team": "IND",
+    "rank": 11,
+    "passRank": 13,
+    "passDvoa": 0.9,
+    "runRank": 8,
+    "runDvoa": -18.8
+  },
+  {
+    "team": "ARI",
+    "rank": 10,
+    "passRank": 11,
+    "passDvoa": -3,
+    "runRank": 18,
+    "runDvoa": -10.4
+  },
+  {
+    "team": "WAS",
+    "rank": 14,
+    "passRank": 3,
+    "passDvoa": -15.6,
+    "runRank": 31,
+    "runDvoa": 12.7
+  },
+  {
+    "team": "GB",
+    "rank": 13,
+    "passRank": 10,
+    "passDvoa": -4.9,
+    "runRank": 26,
+    "runDvoa": -0.3
+  },
+  {
+    "team": "BUF",
+    "rank": 24,
+    "passRank": 15,
+    "passDvoa": 4.5,
+    "runRank": 14,
+    "runDvoa": -11.4
+  },
+  {
+    "team": "TEN",
+    "rank": 17,
+    "passRank": 14,
+    "passDvoa": 1,
+    "runRank": 25,
+    "runDvoa": -2.3
+  },
+  {
+    "team": "NE",
+    "rank": 18,
+    "passRank": 17,
+    "passDvoa": 10.3,
+    "runRank": 13,
+    "runDvoa": -11.8
+  },
+  {
+    "team": "DEN",
+    "rank": 15,
+    "passRank": 16,
+    "passDvoa": 8.3,
+    "runRank": 19,
+    "runDvoa": -10.4
+  },
+  {
+    "team": "HOU",
+    "rank": 12,
+    "passRank": 29,
+    "passDvoa": 26.8,
+    "runRank": 2,
+    "runDvoa": -31.9
+  },
+  {
+    "team": "PIT",
+    "rank": 16,
+    "passRank": 19,
+    "passDvoa": 12.8,
+    "runRank": 17,
+    "runDvoa": -10.7
+  },
+  {
+    "team": "DAL",
+    "rank": 21,
+    "passRank": 26,
+    "passDvoa": 20.6,
+    "runRank": 11,
+    "runDvoa": -15
+  },
+  {
+    "team": "LAC",
+    "rank": 23,
+    "passRank": 18,
+    "passDvoa": 12.6,
+    "runRank": 22,
+    "runDvoa": -5.6
+  },
+  {
+    "team": "SF",
+    "rank": 25,
+    "passRank": 23,
+    "passDvoa": 18.2,
+    "runRank": 9,
+    "runDvoa": -17
+  },
+  {
+    "team": "CIN",
+    "rank": 22,
+    "passRank": 21,
+    "passDvoa": 15.2,
+    "runRank": 15,
+    "runDvoa": -11.1
+  },
+  {
+    "team": "CAR",
+    "rank": 20,
+    "passRank": 20,
+    "passDvoa": 14.3,
+    "runRank": 24,
+    "runDvoa": -4.5
+  },
+  {
+    "team": "MIN",
+    "rank": 19,
+    "passRank": 25,
+    "passDvoa": 19,
+    "runRank": 20,
+    "runDvoa": -7.6
+  },
+  {
+    "team": "OAK",
+    "rank": 27,
+    "passRank": 24,
+    "passDvoa": 18.4,
+    "runRank": 28,
+    "runDvoa": 2.9
+  },
+  {
+    "team": "DET",
+    "rank": 28,
+    "passRank": 28,
+    "passDvoa": 23.8,
+    "runRank": 27,
+    "runDvoa": 0.7
+  },
+  {
+    "team": "NYG",
+    "rank": 29,
+    "passRank": 22,
+    "passDvoa": 16.5,
+    "runRank": 29,
+    "runDvoa": 8.2
+  },
+  {
+    "team": "NO",
+    "rank": 26,
+    "passRank": 32,
+    "passDvoa": 50.7,
+    "runRank": 1,
+    "runDvoa": -41.3
+  },
+  {
+    "team": "ATL",
+    "rank": 30,
+    "passRank": 27,
+    "passDvoa": 22.2,
+    "runRank": 30,
+    "runDvoa": 11.9
+  },
+  {
+    "team": "KC",
+    "rank": 31,
+    "passRank": 30,
+    "passDvoa": 28.6,
+    "runRank": 32,
+    "runDvoa": 18.6
+  },
+  {
+    "team": "TB",
+    "rank": 32,
+    "passRank": 31,
+    "passDvoa": 50.6,
+    "runRank": 21,
+    "runDvoa": -7
+  }
+]
