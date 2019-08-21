@@ -267,5 +267,11 @@ dbconfig.json
 postgres-data
 *.sql
 
-#personal unit test file
+#dotenv files
+*.env
+
+#personal scripts and files
 mytest.test.js
+sleeperRoster.js
+sleeper.json
+jsonFormatter.js
