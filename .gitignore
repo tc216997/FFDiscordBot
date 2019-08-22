@@ -273,7 +273,3 @@ postgres-data
 
 #personal scripts and files
 mytest.test.js
-getIdsToPlayersJSON.js
-sleeper.json
-jsonFormatter.js
-sleeperRoster.js
