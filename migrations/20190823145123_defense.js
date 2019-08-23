@@ -1,0 +1,67 @@
+
+exports.up = function(knex) {
+  return Promise.all([
+    // create table
+    knex.schema.createTable('defense', (table) => {
+      table.string('team').primary().unique()
+      table.float('defense_dvoa')
+      table.integer('defense_dvoa_rank')
+      table.integer('last_year_rank')
+      table.float('wei_defense')
+      table.integer('wei_defense_rank')
+      table.float('pass_def_dvoa')
+      table.integer('pass_def_dvoa_rank')
+      table.float('run_def_dvoa')
+      table.integer('run_def_dvoa_rank')
+      table.float('non_adjusted_dvoa')
+      table.float('non_adjusted_pass_dvoa')
+      table.integer('non_adjusted_rush_dvoa')
+      table.float('variance')
+      table.integer('variance_rank')
+      table.float('sos')
+      table.integer('sos_rank')
+      table.float('vs_wr1')
+      table.integer('vs_wr1_rank')
+      table.float('pa_per_game_wr1')
+      table.float('pya_per_game_wr1')
+      table.float('vs_wr2')
+      table.integer('vs_wr2_rank')
+      table.float('pa_per_game_wr2')
+      table.float('pya_per_game_wr2')
+      table.float('vs_wr3')
+      table.integer('vs_wr3_rank')
+      table.float('pa_per_game_wr3')
+      table.float('pya_per_game_wr3')
+      table.float('vs_te'),
+      table.integer('vs_te_rank')
+      table.float('pa_per_game_te')
+      table.float('pya_per_game_te')
+      table.float('vs_rb')
+      table.integer('vs_rb_rank')
+      table.float('pa_per_game_rb')
+      table.float('pya_per_game_rb')
+      table.float('vs_left')
+      table.integer('vs_left_rank')
+      table.float('vs_middle')
+      table.integer('vs_middle_rank')
+      table.float('vs_right')
+      table.integer('vs_right_rank')
+      table.float('vs_deep')
+      table.integer('vs_deep_rank')
+      table.float('vs_short')
+      table.integer('vs_short_rank')
+      table.float('vs_deep_left')
+      table.float('vs_deep_middle')
+      table.float('vs_deep_right'),
+      table.float('vs_short_left')
+      table.float('vs_short_middle')
+      table.float('vs_short_right')
+    })
+  ])     
+};
+
+exports.down = function(knex) {
+  return Promise.all([
+    knex.schema.dropTable('defense')
+  ])
+};

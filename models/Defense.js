@@ -2,10 +2,10 @@
 
 const { Model } = require('objection');
 
-class Players extends Model {
+class Defense extends Model {
     static get tableName() {
-        return 'players';
+        return 'defense';
     }
 }
 
-module.exports = Players;
+module.exports = Defense;
